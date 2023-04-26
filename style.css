@@ -1,0 +1,35 @@
+body {
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(20, 211, 51);
+}
+
+header {
+    min-height: 50px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+section {
+    flex: 1;
+}
+
+article {
+    flex: 1;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5); 
+    color:rgb(66, 155, 150); 
+    width: 100%; 
+    min-height: 50px; 
+}
+
+#article2 {
+    background-color: rgb(146, 28, 130);
+}
+
