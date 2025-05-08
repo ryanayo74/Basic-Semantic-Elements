@@ -1,34 +1,29 @@
-Here's the text formatted for you to copy into Excel, without the numbers:
+Sure! Here's the text formatted for easy copying into Excel:
 
 ```
-Ahl         Janice     Arpoy
-Ilute       Roel       Anoa's
-Ilute       Pelar      Anoa's
-Ilute       Jonathan   Anoa's
-Ilute       Rocelia Ann
-Yata        Nole       Bono
-Yata        Ken James  Morneo
-Ano-os      Nelson     Ramo
-Manikit     Madona     Siguarol
-Caparoso    Cherry     Anoa's
-Caparoso    Warren     Anoa's
-Caparoso    Regie      Anoa's
-Aldoya      Glieza     Maquilan
-Amman       Joan       Quiapon
-Quiquipo    Armitita   Luway
-Martincalva Narlita    Lanorias
-Argaldo     Mike Kuev  Montialvo
-Amman       Emilio     Alway
-Amman       Rosita     Anoa's
-Amman       Danilo     Anoa's
-Amman       Jeselina   Arcipe
-Amman       Christov   Arcipe
-Amman       Silvestro  Ligan
-Amman       Ariel      Ligan
-Amman       Amelita    Jlate
-Ducay       Isidro     Noradas
-Amman       John Kenneth Torre
-Garlo       Alexis     Maquilan
+BIHAG, LUSANDY O.
+BOTE, JUNREY S.
+BOTE, MARIBEL L.
+CABUCOS, JULIET D.
+CADAVOS, JOAN NOREEN G.
+CADAVOS, MACRINA T.
+DOMO, REA.
+GACUS, LOLITA B.
+GONGOB, EMMA G.
+GONZAGA, RONIE V.
+LIM, NANCY M.
+NARVASA, ASUNCION A.
+NATINGA, JOHN MARK M.
+SIPULO, MELIZEN S.
+MONDIGO, ANNALENE A.
+MONDIGO, CATHY LOU A.
+MONDIGO, PEDRO JR. I.
+JUMALON, TERESITA.
+JAYME, BELENDA Z.
+GICOLE, MARGIE B.
+MAGLASANG, JEAN V.
+MANATAD, NECITAS T.
+MANGUBAT, GLADYS B.
 ```
 
-You can paste this directly into your Excel sheet!
+You can copy this directly into your Excel worksheet. Enjoy!
