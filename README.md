@@ -1,66 +1,58 @@
-Here’s the updated information without the numbers:
+Here’s the information in plain text format without numbers or tables:
 
-| CANSAGA                      |
-|----------------------------------|
-| JOHN KENNETH L. ROJAS           |
-| GERALDINE R. DONATO             |
-| ANTONIO R. DONATO               |
-| JOVANIE R. DONATO               |
-| DAVLYN D. SANCHEZ               |
-| RENCIE BELLE D. SANCHEZ         |
-| NATHAN DAVID D. SANCHEZ         |
-| RENE G. SANCHEZ                 |
-| KRISTIANA CARMEL D. HERRERA     |
-| MARIA EMMA M. ERMAC              |
-| NESTOR M. ERMAC SR.              |
-| RITA MARIA E. ERMAC              |
-| MIGUEL ERNEST E. ERMAC           |
-| LORIE S. SIACOR                  |
-| IVY MAUREEN S. SIACOR            |
-| RINEST E. ERMAC                  |
-| ALEJANDRO H. ALCINO              |
-| CYNTHIA L. ALCINO                |
-| PAOLO L. ALCINO                  |
-| JOHNER Y. MONDEJAR               |
-| JOSEPH L. ATCHASO                |
+CANSAGA
+- JOHN KENNETH L. ROJAS
+- GERALDINE R. DONATO
+- ANTONIO R. DONATO
+- JOVANIE R. DONATO
+- DAVLYN D. SANCHEZ
+- RENCIE BELLE D. SANCHEZ
+- NATHAN DAVID D. SANCHEZ
+- RENE G. SANCHEZ
+- KRISTIANA CARMEL D. HERRERA
+- MARIA EMMA M. ERMAC
+- NESTOR M. ERMAC SR.
+- RITA MARIA E. ERMAC
+- MIGUEL ERNEST E. ERMAC
+- LORIE S. SIACOR
+- IVY MAUREEN S. SIACOR
+- RINEST E. ERMAC
+- ALEJANDRO H. ALCINO
+- CYNTHIA L. ALCINO
+- PAOLO L. ALCINO
+- JOHNER Y. MONDEJAR
+- JOSEPH L. ATCHASO
 
-| POB OCCIDENTAL               |
-|----------------------------------|
-| CHRISNELLE MARIE R. SANCHEZ     |
-| CHRISTIE R. SANCHEZ             |
-| RODNEY DEAN P. SANCHEZ          |
-| CHRISTIAN NEIL R. SANCHEZ       |
-| JAMELYN M. SANCHEZ              |
+POB OCCIDENTAL
+- CHRISNELLE MARIE R. SANCHEZ
+- CHRISTIE R. SANCHEZ
+- RODNEY DEAN P. SANCHEZ
+- CHRISTIAN NEIL R. SANCHEZ
+- JAMELYN M. SANCHEZ
 
-| CASILI                       |
-|----------------------------------|
-| RHONA D. JUGAN                  |
-| RHODA D. JUGAN                  |
-| JULLIANNE CHIEZA H. EPE         |
-| JUTRAN MARIE H. EPE             |
-| JULIA H. EPE                    |
-| JESSON PHILIP H. EPE            |
-| IVY T. COMEDIA                  |
+CASILI
+- RHONA D. JUGAN
+- RHODA D. JUGAN
+- JULLIANNE CHIEZA H. EPE
+- JUTRAN MARIE H. EPE
+- JULIA H. EPE
+- JESSON PHILIP H. EPE
+- IVY T. COMEDIA
 
-| PULPOGAN                     |
-|----------------------------------|
-| MARIE APRIL Y. ALIVIO           |
-| RENLY XARI M. CABIGON           |
-| SAMANTHA N. NUGAS               |
-| NINA CHARISSE L. TY             |
-| JON BENEDICT S. ICOT            |
+PULPOGAN
+- MARIE APRIL Y. ALIVIO
+- RENLY XARI M. CABIGON
+- SAMANTHA N. NUGAS
+- NINA CHARISSE L. TY
+- JON BENEDICT S. ICOT
 
-| NANGKA                       |
-|----------------------------------|
-| OSCAR I. ERMAC                   |
-| MA. ANDRELIE O. ERMAC           |
-| JHOSEP E. QUINDAO               |
+NANGKA
+- OSCAR I. ERMAC
+- MA. ANDRELIE O. ERMAC
+- JHOSEP E. QUINDAO
 
-| TOLO-TOLO                    |
-|----------------------------------|
-| SALROSE G. OLORVIDA             |
-| RENATO S. OLORVIDA              |
-| ESTRELLA S. OLORVIDA            |
-| ROMEO S. OLORVIDA               | 
-
-You can now enter this data into Excel as required!
+TOLO-TOLO
+- SALROSE G. OLORVIDA
+- RENATO S. OLORVIDA
+- ESTRELLA S. OLORVIDA
+- ROMEO S. OLORVIDA
