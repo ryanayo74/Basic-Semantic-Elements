@@ -1,62 +1,66 @@
+Here’s the updated information without the numbers:
+
 | CANSAGA                      |
 |----------------------------------|
-| 1. JOHN KENNETH L. ROJAS        |
-| 2. GERALDINE R. DONATO          |
-| 3. ANTONIO R. DONATO            |
-| 4. JOVANIE R. DONATO            |
-| 5. DAVLYN D. SANCHEZ            |
-| 6. RENCIE BELLE D. SANCHEZ      |
-| 7. NATHAN DAVID D. SANCHEZ      |
-| 8. RENE G. SANCHEZ              |
-| 9. KRISTIANA CARMEL D. HERRERA  |
-| 10. MARIA EMMA M. ERMAC         |
-| 11. NESTOR M. ERMAC SR.         |
-| 12. RITA MARIA E. ERMAC         |
-| 13. MIGUEL ERNEST E. ERMAC      |
-| 14. LORIE S. SIACOR             |
-| 15. IVY MAUREEN S. SIACOR       |
-| 16. RINEST E. ERMAC             |
-| 17. ALEJANDRO H. ALCINO         |
-| 18. CYNTHIA L. ALCINO           |
-| 19. PAOLO L. ALCINO             |
-| 20. JOHNER Y. MONDEJAR          |
-| 21. JOSEPH L. ATCHASO           |
+| JOHN KENNETH L. ROJAS           |
+| GERALDINE R. DONATO             |
+| ANTONIO R. DONATO               |
+| JOVANIE R. DONATO               |
+| DAVLYN D. SANCHEZ               |
+| RENCIE BELLE D. SANCHEZ         |
+| NATHAN DAVID D. SANCHEZ         |
+| RENE G. SANCHEZ                 |
+| KRISTIANA CARMEL D. HERRERA     |
+| MARIA EMMA M. ERMAC              |
+| NESTOR M. ERMAC SR.              |
+| RITA MARIA E. ERMAC              |
+| MIGUEL ERNEST E. ERMAC           |
+| LORIE S. SIACOR                  |
+| IVY MAUREEN S. SIACOR            |
+| RINEST E. ERMAC                  |
+| ALEJANDRO H. ALCINO              |
+| CYNTHIA L. ALCINO                |
+| PAOLO L. ALCINO                  |
+| JOHNER Y. MONDEJAR               |
+| JOSEPH L. ATCHASO                |
 
 | POB OCCIDENTAL               |
 |----------------------------------|
-| 1. CHRISNELLE MARIE R. SANCHEZ  |
-| 2. CHRISTIE R. SANCHEZ          |
-| 3. RODNEY DEAN P. SANCHEZ       |
-| 4. CHRISTIAN NEIL R. SANCHEZ    |
-| 5. JAMELYN M. SANCHEZ           |
+| CHRISNELLE MARIE R. SANCHEZ     |
+| CHRISTIE R. SANCHEZ             |
+| RODNEY DEAN P. SANCHEZ          |
+| CHRISTIAN NEIL R. SANCHEZ       |
+| JAMELYN M. SANCHEZ              |
 
 | CASILI                       |
 |----------------------------------|
-| 1. RHONA D. JUGAN               |
-| 2. RHODA D. JUGAN               |
-| 3. JULLIANNE CHIEZA H. EPE      |
-| 4. JUTRAN MARIE H. EPE          |
-| 5. JULIA H. EPE                 |
-| 6. JESSON PHILIP H. EPE         |
-| 7. IVY T. COMEDIA               |
+| RHONA D. JUGAN                  |
+| RHODA D. JUGAN                  |
+| JULLIANNE CHIEZA H. EPE         |
+| JUTRAN MARIE H. EPE             |
+| JULIA H. EPE                    |
+| JESSON PHILIP H. EPE            |
+| IVY T. COMEDIA                  |
 
 | PULPOGAN                     |
 |----------------------------------|
-| 1. MARIE APRIL Y. ALIVIO        |
-| 2. RENLY XARI M. CABIGON        |
-| 3. SAMANTHA N. NUGAS            |
-| 4. NINA CHARISSE L. TY          |
-| 5. JON BENEDICT S. ICOT         |
+| MARIE APRIL Y. ALIVIO           |
+| RENLY XARI M. CABIGON           |
+| SAMANTHA N. NUGAS               |
+| NINA CHARISSE L. TY             |
+| JON BENEDICT S. ICOT            |
 
 | NANGKA                       |
 |----------------------------------|
-| 1. OSCAR I. ERMAC                |
-| 2. MA. ANDRELIE O. ERMAC       |
-| 3. JHOSEP E. QUINDAO            |
+| OSCAR I. ERMAC                   |
+| MA. ANDRELIE O. ERMAC           |
+| JHOSEP E. QUINDAO               |
 
 | TOLO-TOLO                    |
 |----------------------------------|
-| 1. SALROSE G. OLORVIDA          |
-| 2. RENATO S. OLORVIDA           |
-| 3. ESTRELLA S. OLORVIDA         |
-| 4. ROMEO S. OLORVIDA            |
+| SALROSE G. OLORVIDA             |
+| RENATO S. OLORVIDA              |
+| ESTRELLA S. OLORVIDA            |
+| ROMEO S. OLORVIDA               | 
+
+You can now enter this data into Excel as required!
